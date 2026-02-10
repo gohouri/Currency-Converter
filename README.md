@@ -11,7 +11,7 @@ This Currency Converter is a fully-featured web application that allows users to
 
 My purpose for writing this software was to gain hands-on experience with JavaScript's core features in a practical context. Rather than building isolated code snippets, I wanted to integrate multiple concepts into a cohesive application that demonstrates how these features work together in production-quality code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/2c4de91263e44df99ba749a713fb323f)
 
 # Development Environment
 
